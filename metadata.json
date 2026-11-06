@@ -1,0 +1,10 @@
+{
+  "name": "StudyAI",
+  "description": "AI-powered learning assistant for students to understand difficult topics, scan handwritten notes, summarize study materials, generate quizzes and flashcards, and create personalized study plans.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
